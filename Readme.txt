@@ -34,12 +34,3 @@ The following packages were used in the Jupyter notebook.
 •NRMS.csv: set to a folder where you want the NRMS file stored
 •AE.csv: set to a folder where you want the AE file stored.
 
-
-   Acknowledgements
-   Inspiration, advice and code snippets:
-
-•Stack overflow
-•Towards Data Science
-•Kushal Chotaliya
-•Medium
-•Leetcode
